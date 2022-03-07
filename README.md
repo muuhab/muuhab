@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and learning more everyday.
 - 🎓 &nbsp; Studying Computer Engineering at University of Helwan.
 - 💼 &nbsp; Working as a Web Development Associate at Upwork.
-- 🌱 &nbsp; Living with 3 years of experiance at Web devlopment.
+- 🌱 &nbsp; Living with 3 years of experience at Web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
