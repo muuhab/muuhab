@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://muhab.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.muhab.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/muuhab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhab%20Sherif-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/muuhab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohab%20Sherif-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mohab.barca@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohab.barca@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
