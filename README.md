@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohab</h1>
 <h3 align="center">A Full Stack Web Developer interested in developing websites with good quality. I am passionate about coding and learning new skills every day. I aim to produce and maintain big projects that are well programmed and well tested.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muuhab&label=Profile%20views&color=0e75b6&style=flat" alt="muuhab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muuhab" alt="muuhab" /></a> </p>
 
