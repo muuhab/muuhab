@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **muuhab98@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hdbAsNWlq-UQl4awIwEjiwp7tb1uSdPO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1buv0radwBhjVKbBX94_RhouEZGi1FGkt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
